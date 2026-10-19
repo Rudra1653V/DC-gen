@@ -1,0 +1,4 @@
+selenium>=4.9,<4.28
+colorama
+requests
+tls-client
